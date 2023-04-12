@@ -1,57 +1,17 @@
-# Docus Starter
+![图 1](https://s2.loli.net/2023/04/12/DcWOrG8QhxeAYji.png)
 
-Starter template for [Docus](https://docus.dev).
+## ✨ 2030-知识库
 
-## Clone
+## 🛋️ 说明
+仅限个人学习沉淀，对新技术的把玩，无关工作，无关单位，无关风月！
 
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/docus
+## 🌱 运行
+```shell
+git clone https://github.com/Jun2030/2030-docs
+cd 2030-docs
+pnpm install
+pnpm dev
 ```
 
-## Setup
-
-Install dependencies:
-
-```bash
-yarn install
-```
-
-## Development
-
-```bash
-yarn dev
-```
-
-## Edge Side Rendering
-
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
-
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
-
-```bash
-yarn build
-```
-
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
+## 🔓 License
+[MIT](./LICENSE) License &copy; 2023 Zi Jun
